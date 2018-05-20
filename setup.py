@@ -12,9 +12,9 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 setup(
     name='haburas',
     description='make app for hadezta',
-    version='0.1.1',
+    version='0.1.0',
     author='Mariano de Deus',
-    author_email='anau456anu@gmail.com',
+    author_email='dedeus_mariano@yahoo.com',
     license='MIT',
     url='https://github.com/eraulo/Setup_haburas',
     long_description=open('README.md').read(),
@@ -22,7 +22,7 @@ setup(
         'haburas',
     ],
     install_requires=[
-        'Django>=2.0.3',
+        'Django>=1.8',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
