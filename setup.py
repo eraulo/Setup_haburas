@@ -17,7 +17,7 @@ setup(
     author_email='anau456anu@gmail.com',
     license='MIT',
     url='https://github.com/eraulo/Setup_haburas',
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     packages=[
         'haburas',
     ],
