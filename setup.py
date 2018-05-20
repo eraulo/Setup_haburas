@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='haburas',
     description='make app for hadezta',
-    version='0.0.1',
+    version='0.1.1',
     author='Mariano de Deus',
     author_email='anau456anu@gmail.com',
     license='MIT',
