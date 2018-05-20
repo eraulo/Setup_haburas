@@ -8,7 +8,7 @@ setup(
     author='Mariano de Deus',
     author_email='anau456anu@gmail.com',
     license='MIT',
-    url='https://github.com/eraulo/Setup_haburas/haburas',
+    url='https://github.com/eraulo/Setup_haburas',
     long_description=open('README.rst').read(),
     packages=[
         'haburas',
